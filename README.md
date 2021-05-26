@@ -15,6 +15,8 @@ SQL Developer DWH (T-SQL/MS SQL Server)\
 📄 Я всегда открыт для обратной связи. 
 
 ### 🛠 Стек технологий
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brezencat&layout=compact&custom_title=My%20programming%20languages" />
+
 ![T-SQL](https://img.shields.io/badge/-MS%20SQL%20Server-ffffff?style=flat&logo=microsoft-sql-server&logoColor=cc2927)
 ![SQL Server Integration Services](https://img.shields.io/badge/-SSIS-ffffff?style=flat&logo=microsoft-sql-server&logoColor=cc2927)
 ![SQL Server Reporting Services](https://img.shields.io/badge/-SSRS-ffffff?style=flat&logo=power-bi) \
@@ -36,10 +38,5 @@ SQL Developer DWH (T-SQL/MS SQL Server)\
 <p align="center">
   <a href="https://github.com/brezencat">
     <img src="https://github-readme-stats.vercel.app/api?username=brezencat&show_icons=true&include_all_commits=true&count_private=true&custom_title=BrezenCat%20GitHub%20stats" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/brezencat">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brezencat&layout=compact&custom_title=My%20programming%20languages" />
   </a>
 </p>
